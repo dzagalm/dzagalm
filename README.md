@@ -1,6 +1,8 @@
 ### Hola, soy Diego Zagal Melani! 🙋‍♂️
 
-Soy un analista de datos con habilidades en la recopilación, transformación y organización de datos para su análisis con el fin de impulsar la toma de decisiones informadas. 💻📊 Tengo experiencia en el uso efectivo de herramientas de análisis de datos como SQL, Hojas de cálculo (Excel y Google Sheets), Tableau y lenguaje de programación R (RStudio). Y cuento con habilidades sólidas en la comunicación y organización, lo que me permite compartir información de manera clara y concisa. 
+Soy un analista de datos con habilidades en la recopilación, transformación y organización de datos para su análisis con el fin de impulsar la toma de decisiones informadas. 💻📊 
+
+Habilidades: SQL | Hojas de cálculo (Excel y Google Sheets) | Tableau | lenguaje de programación R (RStudio)
 
 ---
 
