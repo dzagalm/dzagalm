@@ -6,9 +6,7 @@ Soy un analista de datos con habilidades en la recopilación, transformación y 
 
 ### Te invito a que veas mi último proyecto, en donde aplico mis habilidades de analista...
 
-🚴‍♂️[Caso de estudio "Empresa de bicicletas compartidas, Ciclystic"](https://www.kaggle.com/code/diegozagalmelani/caso-de-estudio-empresa-de-bicicletas-compartidas) (realizado en R) 
-
-- A partir de datos de registros de viajes mensuales de una empresa de bicicletas, se analizó el comportamiento de sus segmentos de clientes respecto a los viajes que realizan, con el fin de establecer información útil para generar estrategias de marketing que incrementen las membrecías anuales. 
+🚴‍♂️[Caso de estudio "Empresa de bicicletas compartidas, Ciclystic"](https://www.kaggle.com/code/diegozagalmelani/caso-de-estudio-empresa-de-bicicletas-compartidas) (realizado en R): A partir de datos de registros de viajes mensuales de una empresa de bicicletas, se analizó el comportamiento de sus segmentos de clientes respecto a los viajes que realizan, con el fin de establecer información útil para generar estrategias de marketing que incrementen las membrecías anuales. 
   
 - Este proyecto requirió...
  1. Importación y cohesión de varios archivos csv en un gran conjunto de datos. 📥
