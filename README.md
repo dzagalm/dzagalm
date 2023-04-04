@@ -12,7 +12,7 @@ Soy un analista de datos con habilidades en la recopilación, transformación y 
   
 - Este proyecto requirió...
  1. Importación y cohesión de varios archivos csv en un gran conjunto de datos. 📥
- 2. Proceso de limpieza de datos. (identificación y remoción de valores nulos, registros duplicados, errores de formato, espacios extra). 🧹
+ 2. Proceso de limpieza de datos. (identificación y remoción de valores nulos, registros duplicados, errores de formato, espacios extra).🧹
  3. Transformación y análisis de datos con cálculos y estadística descriptiva. 📈
  4. Creación de visualizaciones. 📊
  5. Determinación de tendencias y recomendaciones a partir del análisis.🔍📈💡
